@@ -1,2 +1,2 @@
 # Homework-7
-cpsc-473 homework assignment no. 7
+Homework 7 - cpsc-473
