@@ -1,2 +1,3 @@
-# Homework-7
-Homework 7 - cpsc-473
+Chattr-box
+using javascript, websocket, JQuery
+
